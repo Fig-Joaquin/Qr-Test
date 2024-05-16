@@ -1,6 +1,6 @@
 # install plugins
 
-````sh
+```sh
 npm install @vitejs/plugin-react
 ```
 
